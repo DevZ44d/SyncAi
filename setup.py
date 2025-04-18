@@ -18,7 +18,7 @@ setuptools.setup(
         ],
     },
     python_requires=">=3.6",
-    url="https://github.com/DevZ44d/HackerGpt.git",
+    url="https://github.com/DevZ44d/SyncAi",
     package_dir={"": "src"},
     packages=setuptools.find_packages(where="src"),
     classifiers=[
