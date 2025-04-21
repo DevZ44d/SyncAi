@@ -11,7 +11,11 @@
 <a href="https://pypi.org/project/SyncAi/">
     <img src="https://img.shields.io/pypi/v/SyncAi?color=red&logo=pypi&logoColor=red">
   </a>
-
+  
+<a href="https://pepy.tech/projects/syncai">
+    <img src="https://static.pepy.tech/badge/syncai" alt="PyPI Downloads"></a>">
+  </a>
+  
   <a href="https://t.me/Pycodz">
     <img src="https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram">
   </a>
