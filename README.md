@@ -13,7 +13,7 @@
   </a>
   
 <a href="https://pepy.tech/projects/syncai">
-    <img src="https://static.pepy.tech/badge/syncai" alt="PyPI Downloads"></a>>
+    <img src="https://static.pepy.tech/badge/syncai">
   </a>
   
   <a href="https://t.me/Pycodz">
